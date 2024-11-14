@@ -26,7 +26,7 @@ The E-Library is a web application that provides users with access to a virtual 
 ### 2. Set Up FakeSMTP for Email Testing
 - Download the FakeSMTP .jar file from the official website.
 - Run the FakeSMTP server and start it to capture outgoing emails without sending them externally.
-- 
+ 
 ### 3. Import Databases
 - Launch phpMyAdmin via XAMPP and import the databases:
   - user_db
@@ -72,6 +72,7 @@ The project files are named to reflect their functions for easy identification. 
 - admin_login.php - Manages admin login.
 - home_page.php - Application landing page.
 - feedback.php - Handles user feedback submissions.
+  
 Other files follow similar naming conventions to indicate their purpose
 
 ## Email Configuration
