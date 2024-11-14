@@ -3,13 +3,13 @@
 The E-Library is a web application that provides users with access to a virtual library. There are two user types: Admin and General User. Users can register with email verification, access available books, search by author or category, request books, send feedback, and participate in a chat room. Admins have additional privileges for managing books, categories, authors, and book requests.This project is my fifth semester school project of the software engineering course and it is Implemented using php,css,mysql and javaScript
 
 ## Key Features
-# 1. User Registration with Email Verification
-# 2. User Authentication and Profile Management
-# 3. Book Search by Author or Category
-# 4. Book Request and Feedback System
-# 5. Admin Controls for Book, Category, and Author Management
-# 6. Real-time Chatroom for Registered Users
-# 7. Email Notifications for Approved Book Requests
+#### 1. User Registration with Email Verification
+#### 2. User Authentication and Profile Management
+#### 3. Book Search by Author or Category
+#### 4. Book Request and Feedback System
+#### 5. Admin Controls for Book, Category, and Author Management
+#### 6. Real-time Chatroom for Registered Users
+#### 7. Email Notifications for Approved Book Requests
 
 ## Installation
 ### Prerequisites
@@ -85,6 +85,8 @@ For email verification and notifications:
 
 ## HOW THE APP LOOKS LIKE
 
-![alt text](https://github.com/mounbagna/Food-Recipe-Web-Page/blob/main/food-recipe-home-page.png)
+![alt text](https://github.com/mounbagna/e-library/blob/master/home_page1.png)
+![alt text](https://github.com/mounbagna/e-library/blob/master/home_page2.png)
+![alt text](https://github.com/mounbagna/e-library/blob/master/home_page3.png)
 
 
